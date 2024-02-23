@@ -8,16 +8,14 @@ L'ONG "Data is for good", a décidé de proposer un challenge afin d'optimiser l
 ### Le projet inclu :
 
 - un notebook contenant l'exploration et l'analyse des données
-- un pdf contenant la présentation visuelle de l'analyse des données 
+- un diaporama contenant la présentation visuelle de l'analyse des données 
 
 ### Environnement de développement et outils utiles à la réalisation du projet :
 `Python`
-    - numpy
     - pandas
-    - seaborn
-    - matplotlib 
-    - sklearn
     - missingo
+    - matplotlib 
+    - seaborn
     - wordcloud
 `Jupyter notebook` 
 `Google slides` 
