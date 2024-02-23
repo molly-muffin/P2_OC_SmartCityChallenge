@@ -11,14 +11,19 @@ L'ONG "Data is for good", a décidé de proposer un challenge afin d'optimiser l
 - un diaporama contenant la présentation visuelle de l'analyse des données 
 
 ### Environnement de développement et outils utiles à la réalisation du projet :
+
 `Python`
+
     - pandas
     - missingo
     - matplotlib 
     - seaborn
     - wordcloud
+    
 `Jupyter notebook` 
+
 `Google slides` 
+
 `GitHub` 
 
 > Laureenda Demeule
