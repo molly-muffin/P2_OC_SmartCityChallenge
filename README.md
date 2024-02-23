@@ -1,4 +1,4 @@
-![Alt text](https://github.com/molly-muffin/P12_OC_EpicEvents/blob/main/image/img.png)
+![Alt text](https://user.oc-static.com/upload/2023/03/30/16801901343159_Screenshot%202023-03-30%20at%2017.27.33.png)
 
 # Participez à un concours sur la Smart City
 
